@@ -1,5 +1,5 @@
 # Household-Energy-Consumption
-## Introduction
+## Business Problem
 A regional home developer is looking to develop analytics for a new set of electrical sub-metering devices used for power management in smart homes. Installing these sub-meters could be a big step towards the developer's goal of offering highly efficient smart homes that provide owners with power usage analytics.
 
 We're provided with a very large data set that contains 47 months of energy usage data from these devices. Our goal is to analyze this data to determine what kind of analytics and visualizations can be created that would empower smart home owners with greater understanding and control of their power usage.
@@ -45,6 +45,18 @@ For weekly analysis, we randomly selected Jan 8th-14th:
 - The usage of laundry room has spikes on weekend and in the middle of the week.
 - The usage of water heater and AC doesn't have much variation throughout the week.
 <br/><br/>
+
+
+### Decomposition-Seasonal Trend
+
+<p float="left">
+   <img src="https://user-images.githubusercontent.com/57699414/80935458-efb6ec00-8d89-11ea-961f-9f68cba3b2e3.png"
+	height="200" width="200" />
+   <img src="https://user-images.githubusercontent.com/57699414/80935483-137a3200-8d8a-11ea-87dc-87b749ae25d3.png"
+	height="200" width="200" />
+   <img src="https://user-images.githubusercontent.com/57699414/80935498-22f97b00-8d8a-11ea-8508-a43eedf11fe2.png"
+	height="200" width="200" />
+</p>
 
 
 

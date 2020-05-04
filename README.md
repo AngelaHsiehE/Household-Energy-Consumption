@@ -51,11 +51,11 @@ For weekly analysis, we randomly selected Jan 8th-14th:
 
 <p float="left">
    <img src="https://user-images.githubusercontent.com/57699414/80935458-efb6ec00-8d89-11ea-961f-9f68cba3b2e3.png"
-	height="200" width="200" />
+	height="250" width="250" />
    <img src="https://user-images.githubusercontent.com/57699414/80935483-137a3200-8d8a-11ea-87dc-87b749ae25d3.png"
-	height="200" width="200" />
+	height="250" width="250" />
    <img src="https://user-images.githubusercontent.com/57699414/80935498-22f97b00-8d8a-11ea-8508-a43eedf11fe2.png"
-	height="200" width="200" />
+	height="250" width="250" />
 </p>
 
 

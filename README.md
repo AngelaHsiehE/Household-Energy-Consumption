@@ -12,4 +12,11 @@ In the time period of 2007-2010, energy used by water heater and AC has increase
 
 ![image](https://user-images.githubusercontent.com/57699414/80930401-98f0e880-8d70-11ea-9543-3583a2900d2c.png)
 
-### Historical Daily Energy Consumption 
+### Historical Energy Consumption Overview
+
+![image](https://user-images.githubusercontent.com/57699414/80930815-20d7f200-8d73-11ea-85bc-f9a05e22bb57.png)
+
+- The power consumption of kitchen is much less frequent than laundry room and water heater/AC. But when it's in use, it has high peaks.
+- The power consumption of laundry room has the most variation.
+- The power consumption of water heater/AC has the least variation but the most frequency.
+

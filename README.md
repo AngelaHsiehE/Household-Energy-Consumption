@@ -6,11 +6,14 @@ We're provided with a very large data set that contains 47 months of energy usag
 
 In this project, we will begin by exploring some visualizations of the data and then build predictive models that will demonstrate to our client how the data can be used to help a home owner to make decisions about altering power consumption.
 
+
+
 ## Visualization
 ### Background: Household Energy Consumption 2007-2010
 In the time period of 2007-2010, energy used by water heater and AC has increased every year, whereas energy used by kitchen and laundry room has gradually decreased.
 
 ![image](https://user-images.githubusercontent.com/57699414/80930401-98f0e880-8d70-11ea-9543-3583a2900d2c.png)
+
 
 
 ### Historical Energy Consumption Overview
@@ -20,6 +23,7 @@ In the time period of 2007-2010, energy used by water heater and AC has increase
 - The power consumption of kitchen is much less frequent than laundry room and water heater/AC. But when it's in use, it has high peaks.
 - The power consumption of laundry room has the most variation.
 - The power consumption of water heater/AC has the least variation but the most frequency.
+
 
 
 ### Daily & Weekly Power Consumption

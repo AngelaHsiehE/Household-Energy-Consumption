@@ -22,5 +22,18 @@ In the time period of 2007-2010, energy used by water heater and AC has increase
 - The power consumption of water heater/AC has the least variation but the most frequency.
 
 
-### Daily Power Consumption
+### Daily & Weekly Power Consumption
+
+<p float="left">
+   <img src="https://user-images.githubusercontent.com/57699414/80933395-cb0a4680-8d80-11ea-8ae4-4edf35d90082.png"
+	height="300" width="350" />
+   <img src="https://user-images.githubusercontent.com/57699414/80933786-43bdd280-8d82-11ea-9bda-68f1f80585b9.png"
+	height="300" width="400" />
+</p>
+
+We randomly selected Jan 9th, 2008 as an example:
+- The power consumption in the kitchen has a peak in the early morning, possible due to home owners making breaksfast.
+- The power consumption of laundry room has regular intervals of every 2 hrs, which is likely due to the cycle of finishing and starting a new load of laundry.
+- Water heater and AC are used in the morning when home owners are getting up and showering, and then between 2pm-10pm when children and parents are returning home.
+
 

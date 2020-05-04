@@ -8,4 +8,8 @@ In this project, we will begin by exploring some visualizations of the data and 
 
 ## Visualization
 ### Background: Household Energy Consumption 2007-2010
+In the time period of 2007-2010, energy used by water heater and AC has increased every year, whereas energy used by kitchen and laundry room has gradually decreased.
+
 ![image](https://user-images.githubusercontent.com/57699414/80930401-98f0e880-8d70-11ea-9543-3583a2900d2c.png)
+
+### Historical Daily Energy Consumption 

@@ -71,7 +71,11 @@ The usage doesn't have much fluctuation until the second quarter of 2009; it dro
 
 ![image](https://user-images.githubusercontent.com/57699414/80935812-9cde3400-8d8b-11ea-9b90-bd6016b66400.png)
 
--  
+- The forecast of kitchen power consumption is much less frequent compared to laundry room, water heater and AC; it also has the lowest watt per hour on average.
+- The predicted power consumption of laundry room has the most variation between 0-40 watt per hour.
+- The predicted power consumption of water heater and AC has the least variation between 5-20 watt per hour but the most frequency, indicating a more constant usage.
+
+
 
 
 

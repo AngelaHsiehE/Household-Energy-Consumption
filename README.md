@@ -58,6 +58,23 @@ For weekly analysis, we randomly selected Jan 8th-14th:
 	height="250" width="250" />
 </p>
 
+- All three sub-meterings have obvious seasonal trends but no significant overall upward or downward trend.
+- Kitchen:
+Power uage has an upward trend since the third quarter of 2007 and then starts to drop in the second quarter of 2008, which seems to coincide with the timeline of Star energy saving campaign. There's obvious seasonality where the usage is low throughout summer and fall and peaks at the end of the year, which might be due to the holidays.
+- Laundry room:
+Power usage significantly increased in 2008 and starts to decrease in the second quarter of 2009. The first peak is in the beginning of the year, followed by the second peak in the beginning of spring.
+- Water-heater and AC:
+The usage doesn't have much fluctuation until the second quarter of 2009; it drops to the lowest point in summer 2009 and starts an upward trend. It shows a seasonl trend where the consumption is lower in summer, which might be due to the fact that people ususally spend less time at home during summer.
+<br/><br/>
+
+## Forecast From Linear Regression Model
+
+![image](https://user-images.githubusercontent.com/57699414/80935812-9cde3400-8d8b-11ea-9b90-bd6016b66400.png)
+
+-  
+
+
+
 
 
 

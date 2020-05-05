@@ -15,7 +15,7 @@ In the time period of 2007-2010, energy used by water heater and AC has increase
 
 
 <br/><br/>
-### Historical Energy Consumption Overview
+### Historical Data Overview
 
 ![image](https://user-images.githubusercontent.com/57699414/80930815-20d7f200-8d73-11ea-85bc-f9a05e22bb57.png)
 
@@ -77,7 +77,26 @@ The usage doesn't have much fluctuation until the second quarter of 2009; it dro
 <br/><br/>
 
 ## Insights From Analysis
+- Kitchen is not frequently used but when in use it consumes a lot of energy. The forecast shows an increase in frequency and lower watt per hour consumed.
+- Laundry room usage has an obvious seasonal trend. Our forecast shows no changes in variation but lower watt per hour usage. 
+- Water heater and AC have the highest frequency of use and forecasts indicates a possible rise in watt/hour usage.
+- Household power consumption has been decreasing since mid 2008 which coincides with the launch of Energy Star campaign that educates consumers about saving energy at home.
 
+
+## Recommendations For Smart Home Owners
+
+- Sub-metering devices:
+Devices should be recommended to home owners to always be used as they provide detailed and valuable data on power consumption.
+- Kitchen:
+Install appliances that have high efficiency and lower watt/hour usage.
+- Laundry Room:
+Use high efficiency washer and dryer, and perform larger loads with less frequency.
+- Water Heater:
+Install on demand water heater to reduce contant usage.
+- AC:
+Install smart thermostat, and use scheduling to turn off when away from home.
+- Lighting:
+Home lighting power consumption should be included in data analysis to provide thorough usage reporting.
 
 
 

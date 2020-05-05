@@ -31,7 +31,7 @@ In the time period of 2007-2010, energy used by water heater and AC has increase
    <img src="https://user-images.githubusercontent.com/57699414/80933395-cb0a4680-8d80-11ea-8ae4-4edf35d90082.png"
 	height="300" width="350" />
    <img src="https://user-images.githubusercontent.com/57699414/80933786-43bdd280-8d82-11ea-9bda-68f1f80585b9.png"
-	height="300" width="400" />
+	height="300" width="350" />
 </p>
 
 For daily analysis, we randomly selected Jan 9th, 2008 as an example:
@@ -51,11 +51,11 @@ For weekly analysis, we randomly selected Jan 8th-14th:
 
 <p float="left">
    <img src="https://user-images.githubusercontent.com/57699414/80935458-efb6ec00-8d89-11ea-961f-9f68cba3b2e3.png"
-	height="250" width="250" />
+	height="220" width="220" />
    <img src="https://user-images.githubusercontent.com/57699414/80935483-137a3200-8d8a-11ea-87dc-87b749ae25d3.png"
-	height="250" width="250" />
+	height="220" width="220" />
    <img src="https://user-images.githubusercontent.com/57699414/80935498-22f97b00-8d8a-11ea-8508-a43eedf11fe2.png"
-	height="250" width="250" />
+	height="220" width="220" />
 </p>
 
 - All three sub-meterings have obvious seasonal trends but no significant overall upward or downward trend.
